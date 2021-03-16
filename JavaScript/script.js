@@ -1,7 +1,7 @@
 var name = prompt("Your Name");
 var password = "HVMS";
-prompt("Enter the password")
-if (password == "HVMS") {
+pass=prompt("Enter the password")
+if (pass == password) {
 	alert("Welcome"+ "" +name);
 }
 else {
