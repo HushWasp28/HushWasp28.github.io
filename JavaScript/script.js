@@ -9,3 +9,4 @@ else {
         alert("closing window");
         window.close();
 }
+alert("still under maintenance");
