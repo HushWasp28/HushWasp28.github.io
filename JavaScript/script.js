@@ -1,6 +1,6 @@
 var name = prompt("Your Name");
 var password = "HVMS";
-pass=prompt("Enter the password")
+var pass=prompt("Enter the password")
 if (pass == password) {
 	alert("Welcome"+ "" +name);
 }
