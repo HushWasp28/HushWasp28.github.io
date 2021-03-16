@@ -1,4 +1,3 @@
-"use strict"
 var name = prompt("Your Name");
 var password = "HVMS";
 prompt("Enter the password")
