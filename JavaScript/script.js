@@ -1,5 +1,5 @@
 var name = prompt("Your Name");
-var password = "HVMS";
+var password = "DKD";
 var pass = prompt("Enter the password");
 if (pass == password) {
 	alert("Welcome"+ "" +name);
